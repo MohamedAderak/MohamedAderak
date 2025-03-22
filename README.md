@@ -16,8 +16,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedaderak)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamedaderak)
 [![Phone](https://img.shields.io/badge/Phone-+212_639_634_162-1ABC9C?style=for-the-badge&logo=phone&logoColor=white)](tel:+212639634162)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2)](https://discord.com/users/_mezos)
 
-</div>
+</div> 
 
 ## 💻 Tech Stack
 
@@ -62,7 +63,88 @@
 ![FiveM](https://img.shields.io/badge/FiveM_Developer-F40552?style=for-the-badge&logo=fivem&logoColor=white)
 ![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-8BC0D0?style=for-the-badge&logo=arduino&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-0078D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white)
 
+</div>
+
+
+## 🚀 Featured Projects
+
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+  <table>
+    <tr>
+      <td width="50%">
+        <div align="center" style="background: linear-gradient(to right, #3a1c71, #d76d77, #ffaf7b); padding: 15px; border-radius: 10px; margin: 10px;">
+          <h3 align="center">🛒 E-commerce Platforms</h3>
+          <p align="center">
+            <a href="https://github.com/mohamedaderak" target="_blank">
+              <img src="https://img.icons8.com/fluency/144/000000/shop.png" width="100" alt="E-commerce"/>
+            </a>
+            <p align="center">
+              Developed and optimized e-commerce sites <br>using PrestaShop and WordPress
+            </p>
+            <p align="center">
+              <img src="https://img.shields.io/badge/PrestaShop-DF0067?style=for-the-badge&logo=prestashop&logoColor=white" alt="PrestaShop"/>
+              <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
+            </p>
+          </p>
+        </div>
+      </td>
+      <td width="50%">
+        <div align="center" style="background: linear-gradient(to right, #0f0c29, #302b63, #24243e); padding: 15px; border-radius: 10px; margin: 10px;">
+          <h3 align="center">🏢 Supplier Management System</h3>
+          <p align="center">
+            <a href="https://github.com/mohamedaderak" target="_blank">
+              <img src="https://img.icons8.com/fluency/144/000000/supplier.png" width="100" alt="Supplier Management"/>
+            </a>
+            <p align="center">
+              Built a web application for <br>managing suppliers using Laravel
+            </p>
+            <p align="center">
+              <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+              <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+            </p>
+          </p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <div align="center" style="background: linear-gradient(to right, #134e5e, #71b280); padding: 15px; border-radius: 10px; margin: 10px;">
+          <h3 align="center">🎨 UI/UX Design Portfolio</h3>
+          <p align="center">
+            <a href="https://github.com/mohamedaderak" target="_blank">
+              <img src="https://img.icons8.com/fluency/144/000000/design.png" width="100" alt="UI/UX Design"/>
+            </a>
+            <p align="center">
+              Created user-friendly interfaces <br>for various web applications
+            </p>
+            <p align="center">
+              <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+              <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator"/>
+            </p>
+          </p>
+        </div>
+      </td>
+      <td width="50%">
+        <div align="center" style="background: linear-gradient(to right, #1a2a6c, #b21f1f, #fdbb2d); padding: 15px; border-radius: 10px; margin: 10px;">
+          <h3 align="center">🎮 FiveM Server Development</h3>
+          <p align="center">
+            <a href="https://github.com/mohamedaderak" target="_blank">
+              <img src="https://img.icons8.com/fluency/144/000000/game-controller.png" width="100" alt="FiveM Development"/>
+            </a>
+            <p align="center">
+              Developed custom FiveM servers <br>with unique gameplay features
+            </p>
+            <p align="center">
+              <img src="https://img.shields.io/badge/FiveM-F40552?style=for-the-badge&logo=fivem&logoColor=white" alt="FiveM"/>
+              <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
+            </p>
+          </p>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 📊 GitHub Analytics
@@ -112,4 +194,3 @@
 mohamedaderak/mohamedaderak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
