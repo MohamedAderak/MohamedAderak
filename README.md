@@ -134,7 +134,7 @@
               <img src="https://images.sftcdn.net/images/t_app-icon-m/p/2ada4dab-aadf-4c0f-9cc3-8c4c58272b47/1625185272/fivem-fivem-icon.png" width="100" alt="FiveM Development"/>
             </a>
             <p align="center">
-              Developed custom FiveM servers <br>with unique gameplay features
+              Developed custom FiveM servers <br>
             </p>
             <p align="center">
               <img src="https://img.shields.io/badge/FiveM-F40552?style=for-the-badge&logo=fivem&logoColor=white" alt="FiveM"/>
