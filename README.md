@@ -4,7 +4,7 @@
 ---
 
 ### Contact
-- **Email:** medaderak5@gmail.com  
+- **Email:** mohamed.aderak@gmail.com  
 - **Phone:** +212 639 634 162  
 - **GitHub:** [mohamedaderak](https://github.com/mohamedaderak)  
 - **LinkedIn:** [mohamedaderak](https://www.linkedin.com/in/mohamedaderak)  
@@ -23,14 +23,6 @@
 - **Tools & Platforms:**  
   Git, Docker, Linux, DevOps, Figma, Illustrator  
 
----
-
-### Languages
-| Amazigh | Native |
-|---------|--------|
-| Arabic  | Fluent |
-| French  | Intermediate |
-| English | Fluent |
 
 ---
 
@@ -56,7 +48,7 @@
 
 ### Let's Connect!
 Feel free to reach out for collaborations or opportunities!  
-📧 **Email:** medaderak5@gmail.com  
+📧 **Email:** mohamed.aderak@gmail.com  
 🌐 **GitHub:** [mohamedaderak](https://github.com/mohamedaderak)  
 🔗 **LinkedIn:** [mohamedaderak](https://www.linkedin.com/in/mohamedaderak)  
 
