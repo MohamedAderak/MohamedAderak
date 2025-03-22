@@ -1,6 +1,8 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there, I'm Mohamed ADERAK
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0D6EFD&width=435&lines=Full+Stack+Developer;UI%2FUX+Designer;E-commerce+Expert)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0D6EFD&center=true&vCenter=true&width=600&height=60&lines=Full+Stack+Developer;UI%2FUX+Designer;E-commerce+Expert;Freelancer;Discord+Developer;FiveM+Developer;Embedded+Systems+Specialist" alt="Typing SVG" /></a>
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohamedaderak&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -21,7 +23,7 @@
 
 <div align="center">
 
-### Frontend
+### Frontend 🎨
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -32,77 +34,38 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Backend
+### Backend 🚀
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
 ### E-commerce
 ![PrestaShop](https://img.shields.io/badge/PrestaShop-DF0067?style=for-the-badge&logo=prestashop&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-### Databases
+### Databases 💾
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Tools & Platforms
+### Development & Platforms 🔧
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Discord Dev](https://img.shields.io/badge/Discord_Developer-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![FiveM](https://img.shields.io/badge/FiveM_Developer-F40552?style=for-the-badge&logo=fivem&logoColor=white)
+![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-8BC0D0?style=for-the-badge&logo=arduino&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-0078D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 </div>
 
-## 🚀 Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">E-commerce Platforms</h3>
-      <p align="center">
-        <a href="https://github.com/mohamedaderak" target="_blank">
-          <img src="https://img.icons8.com/color/144/000000/shop.png" width="100" alt="E-commerce"/>
-        </a>
-        <p align="center">
-          Developed and optimized e-commerce sites using PrestaShop and WordPress
-        </p>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Supplier Management System</h3>
-      <p align="center">
-        <a href="https://github.com/mohamedaderak" target="_blank">
-          <img src="https://img.icons8.com/color/144/000000/supplier.png" width="100" alt="Supplier Management"/>
-        </a>
-        <p align="center">
-          Built a web application for managing suppliers using Laravel
-        </p>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">UI/UX Design</h3>
-      <p align="center">
-        <a href="https://github.com/mohamedaderak" target="_blank">
-          <img src="https://img.icons8.com/color/144/000000/design.png" width="100" alt="UI/UX Design"/>
-        </a>
-        <p align="center">
-          Created user-friendly interfaces for various web applications
-        </p>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Custom Web Applications</h3>
-      <p align="center">
-        <a href="https://github.com/mohamedaderak" target="_blank">
-          <img src="https://img.icons8.com/color/144/000000/web.png" width="100" alt="Web Applications"/>
-        </a>
-        <p align="center">
-          Developed custom web solutions for businesses using modern technologies
-        </p>
       </p>
     </td>
   </tr>
@@ -111,20 +74,20 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedaderak&theme=tokyonight&layout=compact" alt="Most Used Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedaderak&theme=tokyonight" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedaderak&theme=tokyonight&layout=compact&langs_count=8&hide_border=true" alt="Most Used Languages" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedaderak&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohamedaderak&theme=nord&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mohamedaderak&theme=algolia&no-frame=true&column=7&margin-w=15" alt="GitHub Trophies" />
 </div>
 
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=mohamedaderak&theme=react-dark" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedaderak&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </div>
 
 ## 🌟 Let's Connect!
