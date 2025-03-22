@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there, I'm Mohamed ADERAK
 
 <div align="left">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0D6EFD&left=true&vCenter=true&width=600&height=60&lines=Full+Stack+Developer;UI%2FUX+Designer;E-commerce+Expert;Freelancer;Discord+Developer;FiveM+Developer;Embedded+Systems+Specialist" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0D6EFD&left=true&vCenter=true&width=600&height=60&lines=Full+Stack+Developer;UI%2FUX+Designer;E-commerce+Expert;POD+Freelancer;Discord+Developer;FiveM+Developer;Embedded+Systems+Specialist" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
