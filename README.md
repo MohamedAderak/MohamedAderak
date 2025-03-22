@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there, I'm Mohamed ADERAK
 
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0D6EFD&center=true&vCenter=true&width=600&height=60&lines=Full+Stack+Developer;UI%2FUX+Designer;E-commerce+Expert;Freelancer;Discord+Developer;FiveM+Developer;Embedded+Systems+Specialist" alt="Typing SVG" /></a>
+<div align="left">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0D6EFD&left=true&vCenter=true&width=600&height=60&lines=Full+Stack+Developer;UI%2FUX+Designer;E-commerce+Expert;Freelancer;Discord+Developer;FiveM+Developer;Embedded+Systems+Specialist" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
@@ -10,7 +10,7 @@
 
 ## 📫 Contact Me
 
-<div align="center">
+<div align="left">
   
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.aderak@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedaderak)
@@ -21,7 +21,7 @@
 
 ## 💻 Tech Stack
 
-<div align="center">
+<div align="left">
 
 ### Frontend 🎨
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -64,12 +64,6 @@
 ![Networking](https://img.shields.io/badge/Networking-0078D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 </div>
-
-
-      </p>
-    </td>
-  </tr>
-</table>
 
 ## 📊 GitHub Analytics
 
