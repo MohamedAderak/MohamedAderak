@@ -1,195 +1,159 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there, I'm Mohamed ADERAK
+<!-- ═══════════════════════════  HEADER  ═══════════════════════════ -->
+<div align="center">
 
-<div align="left">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0D6EFD&left=true&vCenter=true&width=600&height=60&lines=Full+Stack+Developer;UI%2FUX+Designer;Discord+Developer;FiveM+Developer;" alt="Typing SVG" /></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:A855F7&height=220&section=header&text=Mohamed%20Aderak&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=builder%20·%20tinkerer%20·%20FiveM%20dev&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="header"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=620&lines=Full+Stack+Developer+%F0%9F%92%BB;Embedded+Systems+%26+IoT+%F0%9F%94%8C;FiveM+%2F+QBCore+Script+Dev+%F0%9F%8E%AE;UI%2FUX+Designer+%F0%9F%8E%A8;Based+in+Agadir%2C+Morocco+%F0%9F%87%B2%F0%9F%87%A6" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<a href="mailto:mohamed.aderak@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+<a href="https://www.linkedin.com/in/mohamedaderak"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+<a href="https://discord.com/users/_mezos"><img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2" /></a>
+<img src="https://komarev.com/ghpvc/?username=mohamedaderak&style=for-the-badge&color=A855F7&label=PROFILE+VIEWS" />
+
 </div>
+
+<br/>
+
+<!-- ═══════════════════════════  ABOUT  ═══════════════════════════ -->
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About me
+
+```js
+const mohamed = {
+  location:   "Agadir, Morocco 🇲🇦",
+  now:        "Master d'Excellence @ Centre d'Excellence IT — FS Agadir",
+  dayJob:     "Running the IT service @ EST Agadir",
+  background: ["Licence ISE (Embedded Systems)", "Full Stack Dev @ 4Tech Lab", "DTS Digital Dev @ OFPPT"],
+  building:   ["FiveM / QBCore scripts & MLOs", "IoT + AI side projects", "web dashboards"],
+  speaks:     ["Darija", "Arabic", "French", "English"],
+  askMeAbout: "web apps, Arduino/ESP32, Lua, game servers",
+};
+```
+
+<br/>
+
+<!-- ═══════════════════════════  STACK  ═══════════════════════════ -->
+
+## ⚡ Tech stack
+
+<table>
+  <tr>
+    <td align="center" width="140"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js,react,vue,nuxtjs,svelte,tailwind,bootstrap&perline=9" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,laravel,symfony,py,java,c,cpp,lua&perline=9" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Data</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=9" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Hardware</b></td>
+    <td><img src="https://skillicons.dev/icons?i=arduino,raspberrypi&perline=9" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tools &amp; design</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,docker,linux,figma,ai,wordpress,discord&perline=9" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Also</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/FiveM-F40552?style=flat-square&logo=fivem&logoColor=white" />
+      <img src="https://img.shields.io/badge/QBCore-111?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/PrestaShop-DF0067?style=flat-square&logo=prestashop&logoColor=white" />
+      <img src="https://img.shields.io/badge/Networking-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════  PROJECTS  ═══════════════════════════ -->
+
+## 🚀 What I've been building
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📱 iApple Phone — FiveM</h3>
+      <p>An iPhone-style phone for QBCore servers, built to replace <code>qb-phone</code>: smooth NUI, apps, notifications.</p>
+      <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" />
+      <img src="https://img.shields.io/badge/NUI-HTML%2FCSS%2FJS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚗 Vehicle Rental UI — FiveM</h3>
+      <p>Clean in-game rental interface: car list on the left, live preview in the middle, options on the right.</p>
+      <img src="https://img.shields.io/badge/FiveM-F40552?style=flat-square&logo=fivem&logoColor=white" />
+      <img src="https://img.shields.io/badge/NUI-HTML%2FCSS%2FJS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏛️ IT Management System</h3>
+      <p>Inventory, tickets and asset tracking for a school IT service, with a web dashboard on the way.</p>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎬 YouTube → TikTok Clipper</h3>
+      <p>Web app that turns long YouTube videos into vertical short-form clips, ready to post.</p>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔌 IoT &amp; Embedded</h3>
+      <p>Arduino / ESP32 experiments: sensors, automation and small connected gadgets.</p>
+      <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white" />
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛒 E-commerce &amp; Web</h3>
+      <p>Shops and business sites on PrestaShop &amp; WordPress, plus a Laravel supplier-management app.</p>
+      <img src="https://img.shields.io/badge/PrestaShop-DF0067?style=flat-square&logo=prestashop&logoColor=white" />
+      <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════  STATS  ═══════════════════════════ -->
+
+## 📊 GitHub stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedaderak&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mohamedaderak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=1F6FEB&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedaderak&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=mohamedaderak&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=1F6FEB&currStreakLabel=A855F7" />
+  <br/><br/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedaderak&bg_color=0D1117&color=A855F7&line=1F6FEB&point=FFFFFF&area=true&hide_border=true" />
 </div>
 
-## 📫 Contact Me
+<br/>
 
-<div align="left">
-  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.aderak@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedaderak)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamedaderak)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2)](https://discord.com/users/_mezos)
-
-</div> 
-
-## 💻 Tech Stack
-
-<div align="left">
-
-### Frontend 🎨
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Backend 🚀
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-
-### E-commerce
-![PrestaShop](https://img.shields.io/badge/PrestaShop-DF0067?style=for-the-badge&logo=prestashop&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-
-### Databases 💾
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Development & Platforms 🔧
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Discord Dev](https://img.shields.io/badge/Discord_Developer-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![FiveM](https://img.shields.io/badge/FiveM_Developer-F40552?style=for-the-badge&logo=fivem&logoColor=white)
-![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-8BC0D0?style=for-the-badge&logo=arduino&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-0078D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white)
-
-</div>
-
-
-## 🚀 Featured Projects
-
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-  <table>
-    <tr>
-      <td width="50%">
-        <div align="center" style="background: linear-gradient(to right, #3a1c71, #d76d77, #ffaf7b); padding: 15px; border-radius: 10px; margin: 10px;">
-          <h3 align="center">🛒 E-commerce Platforms</h3>
-          <p align="center">
-            <a href="https://github.com/mohamedaderak" target="_blank">
-              <img src="https://img.icons8.com/fluency/144/000000/shop.png" width="100" alt="E-commerce"/>
-            </a>
-            <p align="center">
-              Developed and optimized e-commerce sites <br>using PrestaShop and WordPress
-            </p>
-            <p align="center">
-              <img src="https://img.shields.io/badge/PrestaShop-DF0067?style=for-the-badge&logo=prestashop&logoColor=white" alt="PrestaShop"/>
-              <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
-            </p>
-          </p>
-        </div>
-      </td>
-      <td width="50%">
-        <div align="center" style="background: linear-gradient(to right, #0f0c29, #302b63, #24243e); padding: 15px; border-radius: 10px; margin: 10px;">
-          <h3 align="center">🏢 Supplier Management System</h3>
-          <p align="center">
-            <a href="https://github.com/mohamedaderak" target="_blank">
-              <img src="https://img.icons8.com/fluency/144/000000/supplier.png" width="100" alt="Supplier Management"/>
-            </a>
-            <p align="center">
-              Built a web application for <br>managing suppliers using Laravel
-            </p>
-            <p align="center">
-              <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-              <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-            </p>
-          </p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <div align="center" style="background: linear-gradient(to right, #134e5e, #71b280); padding: 15px; border-radius: 10px; margin: 10px;">
-          <h3 align="center">🎨 UI/UX Design Portfolio</h3>
-          <p align="center">
-            <a href="https://github.com/mohamedaderak" target="_blank">
-              <img src="https://img.icons8.com/fluency/144/000000/design.png" width="100" alt="UI/UX Design"/>
-            </a>
-            <p align="center">
-              Created user-friendly interfaces <br>for various web applications
-            </p>
-            <p align="center">
-              <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-              <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator"/>
-            </p>
-          </p>
-        </div>
-      </td>
-      <td width="50%">
-        <div align="center" style="background: linear-gradient(to right, #1a2a6c, #b21f1f, #fdbb2d); padding: 15px; border-radius: 10px; margin: 10px;">
-          <h3 align="center">🎮 FiveM Server Development</h3>
-          <p align="center">
-            <a href="https://github.com/mohamedaderak" target="_blank">
-              <img src="https://images.sftcdn.net/images/t_app-icon-m/p/2ada4dab-aadf-4c0f-9cc3-8c4c58272b47/1625185272/fivem-fivem-icon.png" width="100" alt="FiveM Development"/>
-            </a>
-            <p align="center">
-              Developed custom FiveM servers <br>
-            </p>
-            <p align="center">
-              <img src="https://img.shields.io/badge/FiveM-F40552?style=for-the-badge&logo=fivem&logoColor=white" alt="FiveM"/>
-              <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
-            </p>
-          </p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 📊 GitHub Analytics
+<!-- ═══════════════════════════  SNAKE  ═══════════════════════════ -->
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedaderak&theme=tokyonight&layout=compact&langs_count=8&hide_border=true" alt="Most Used Languages" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedaderak&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohamedAderak/MohamedAderak/output/github-snake-dark.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/MohamedAderak/MohamedAderak/output/github-snake.svg" />
+  </picture>
 </div>
 
-## 🏆 GitHub Trophies
+<!-- ═══════════════════════════  FOOTER  ═══════════════════════════ -->
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohamedaderak&theme=algolia&no-frame=true&column=7&margin-w=15" alt="GitHub Trophies" />
+  <br/>
+  <b>Open to collabs &amp; freelance work — say hi 👋</b>
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:1F6FEB,100:0D1117&height=120&section=footer" width="100%" />
 </div>
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedaderak&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</div>
-
-## 🌟 Let's Connect!
-
-<div align="center">
-  <p>Feel free to reach out for collaborations or opportunities!</p>
-  <p>
-    <a href="mailto:mohamed.aderak@gmail.com">
-      <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Email" />
-    </a>
-    <a href="https://github.com/mohamedaderak">
-      <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" />
-    </a>
-    <a href="https://www.linkedin.com/in/mohamedaderak">
-      <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" />
-    </a>
-  </p>
-</div>
-
-<div align="center">
-  
-  ![Visitor Count](https://profile-counter.glitch.me/mohamedaderak/count.svg)
-  
-  ⭐️ From [mohamedaderak](https://github.com/mohamedaderak)
-</div>
-
-<!---
-mohamedaderak/mohamedaderak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
