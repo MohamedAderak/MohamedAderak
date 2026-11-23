@@ -25,11 +25,11 @@
 ```js
 const mohamed = {
   location:   "Agadir, Morocco 🇲🇦",
-  now:        "Master d'Excellence @ Centre d'Excellence IT — FS Agadir",
+  now:        "Master d'Excellence IISE @ Centre d'Excellence IT — FS Agadir",
   dayJob:     "Running the IT service @ EST Agadir",
-  background: ["Licence ISE (Embedded Systems)", "Full Stack Dev @ 4Tech Lab", "DTS Digital Dev @ OFPPT"],
+  background: ["Licence IISE (Ingénierie Informatique Embedded Systems)", "Full Stack Dev @ 4Tech Lab", "DTS Digital Dev @ OFPPT"],
   building:   ["FiveM / QBCore scripts & MLOs", "IoT + AI side projects", "web dashboards"],
-  speaks:     ["Darija", "Arabic", "French", "English"],
+  speaks:     ["Arabic", "French", "English"],
   askMeAbout: "web apps, Arduino/ESP32, Lua, game servers",
 };
 ```
